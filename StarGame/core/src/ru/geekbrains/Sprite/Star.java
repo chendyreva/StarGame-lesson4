@@ -1,10 +1,9 @@
 package ru.geekbrains.Sprite;
 
-import ru.geekbrains.base.Sprite;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.math.Vector2;
 
-
+import ru.geekbrains.base.Sprite;
 import ru.geekbrains.math.Rect;
 import ru.geekbrains.math.Rnd;
 
